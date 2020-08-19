@@ -1,1 +1,7 @@
 # CS206-Pyrosim-Evolutionary-Quadraped
+
+# In this project I followed the Ludobots Evolutionary Robotics MOOC course. I programmed neurons, synapses, touch sensors, light sensors, and position sensors. 
+
+# I also implemented a variety of algorithms including the genetic Algorithm, parallel hill climber optimization, and evolutionary algorithms.
+
+# With the random function, I was able to form populations of individuals of which only the ones with the highest fitness( measured based on how they move towards the light box ) would produce children. 
