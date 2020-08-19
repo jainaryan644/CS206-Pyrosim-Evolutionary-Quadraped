@@ -1,4 +1,4 @@
-# CS206-Pyrosim-Evolutionary-Quadraped
+# CS206-Pyrosim-Evolutionary-Quadruped
 
 # In this project I followed the Ludobots Evolutionary Robotics MOOC course. I programmed neurons, synapses, touch sensors, light sensors, and position sensors. 
 
