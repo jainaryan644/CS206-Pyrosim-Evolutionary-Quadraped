@@ -5,3 +5,5 @@
 # I also implemented a variety of algorithms including the genetic Algorithm, parallel hill climber optimization, and evolutionary algorithms.
 
 # With the random function, I was able to form populations of individuals of which only the ones with the highest fitness( measured based on how they move towards the light box ) would produce children. 
+
+# https://drive.google.com/file/d/1cjqJNuN_2zzEXR2tw_8IRkHpYKqkxf5o/view?usp=sharing
